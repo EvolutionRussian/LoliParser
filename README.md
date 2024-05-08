@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/.github/ICON.png" height="150">
+  <img src="ICON.png" height="150">
 </p>
 
 <h2 align="center"> LoliParser </h2>
