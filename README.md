@@ -11,3 +11,18 @@
   <a href="https://www.ruby-lang.org"><img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
+
+
+### Download
+
+Downloading mpv for Debian family
+
+```bash
+apt install mpv
+```
+
+Downloading mpv for Debian family
+
+```bash
+apt install mpv
+```
