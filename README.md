@@ -2,10 +2,10 @@
   <img src="ICON.png" height="150">
 </p>
 
-<h2 align="center"> LoliParser </h2>
+<h2 align="center"> LoliParser 18+</h2>
 
-<h3 align="center"> Anime Image Parser </h3>
-<h3 align="center"> Easily find and display the best anime images! </h3>
+<h3 align="center"> Loli Image Parser </h3>
+<h3 align="center"> Easily find and display the best loli images! </h3>
 
 <p align="center">
   <a href="https://www.ruby-lang.org"><img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
