@@ -12,7 +12,12 @@
   <img src="https://img.shields.io/badge/Support-Windows%20x64-blue?logo=Windows&style=flat-square">
 </p>
 
-
 <p align="left">
   <img src="/.github/README/Powered_by_nvidia.jpg" height="70">
+</p>
+
+<p align="center">
+  <video controls>
+    <source src="DEMO.mp4" type="video/mp4">
+  </video>
 </p>
