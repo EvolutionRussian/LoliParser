@@ -13,7 +13,7 @@
 </p>
 
 
-### Download
+### Download Pakets
 
 Downloading mpv for Debian family
 
@@ -41,4 +41,9 @@ Downloading Ruby and Bundle for Arch family
 sudo pacman -S ruby && gem install bundler
 ```
 
+### Download Repository
+
+```bash
+git clone 
+```
 
