@@ -50,12 +50,39 @@ and
 ```bash
 cd LoliParser
 ```
-```ruby
+```bash
 sudo bundle install
 ```
 
 ### Starting Skript 
 
-```ruby
+```bash
 ruby loli.rb
+```
+
+### Code modification
+If you need the script to load the received images, then replace or add the code in the begin operator with this
+
+```ruby
+    begin
+      html = URI.open(url)
+      doc = Nokogiri::HTML(html)
+      image_tag = doc.at_css('.fit-width')
+      image_url = image_tag['src']
+
+      # Creating the 'images' folder if it doesn't exist
+      system('mkdir -p images')
+
+      # Getting the file name from the URL
+      filename = File.basename(image_url)
+
+      # Creating a new file path inside the 'images' folder
+      filepath = File.join('images', filename)
+
+      # Downloading the file to the 'images' folder
+      URI.open(image_url) do |f|
+        File.open(filepath, 'wb') do |file|
+          file.write(f.read)
+        end
+      end
 ```
