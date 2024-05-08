@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/.github/README/ICON.png" height="150">
+  <img src="https://cdn.sex.com/images/pinporn/2022/05/22/27326614.gif?width=620" height="150">
 </p>
 
 <h2 align="center"> LoliParser </h2>
