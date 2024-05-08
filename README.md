@@ -61,7 +61,7 @@ ruby loli.rb
 ```
 
 ### Code modification
-If you need the script to load the received images, then replace or add the code in the begin operator with this
+If you need the script to load the received images, then replace or add the code in the <code>begin</code> operator with this
 
 ```ruby
     begin
