@@ -7,7 +7,7 @@
 <h3 align="center"> Anime Image Parser </h3>
 <h3 align="center"> Easily find and display the best anime images! </h3>
 
-  <a href="https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/latest"><img src="https://img.shields.io/github/v/release/aaronfeng753/waifu2x-extension-gui?label=Latest%20stable%20release&style=flat-square&color=brightgreen"></a>
- 
-
-
+<p align="center">
+  <a href="https://www.ruby-lang.org"><img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
+  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+</p>
