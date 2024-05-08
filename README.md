@@ -18,11 +18,11 @@
 Downloading mpv for Debian family
 
 ```bash
-apt install mpv
+sudo apt install mpv
 ```
 
-Downloading mpv for Debian family
+Downloading mpv for Arch family
 
 ```bash
-apt install mpv
+sudo pacman-S mpv
 ```
