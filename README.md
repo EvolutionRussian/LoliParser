@@ -50,4 +50,6 @@ and
 ```bash
 cd LoliParser
 ```
-
+```bash
+bundle install
+```
