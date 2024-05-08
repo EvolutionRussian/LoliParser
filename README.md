@@ -4,8 +4,8 @@
 
 <h2 align="center"> LoliParser 18+</h2>
 
-<h3 align="center"> Loli Image Parser </h3>
-<h3 align="center"> Easily find and display the best loli images! </h3>
+<h3 align="center"> Loli Parser of images and not only images </h3>
+<h3 align="center"> The parser finds pictures, gifs and videos, so be careful with the sound XD </h3>
 
 <p align="center">
   <a href="https://www.ruby-lang.org"><img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
