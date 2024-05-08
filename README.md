@@ -24,5 +24,21 @@ sudo apt install mpv
 Downloading mpv for Arch family
 
 ```bash
-sudo pacman-S mpv
+sudo pacman -S mpv
 ```
+
+For other distributions, downloading mpv is almost the same.
+
+Downloading Ruby and Bundle for Debian family
+
+```bash
+sudo apt install ruby && gem install bundler
+```
+
+Downloading Ruby and Bundle for Arch family
+
+```bash
+sudo pacman -S ruby && gem install bundler
+```
+
+
