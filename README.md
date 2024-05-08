@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://www.ruby-lang.org"><img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=18+&logoColor=white" title="18+">
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
 
@@ -53,4 +52,10 @@ cd LoliParser
 ```
 ```ruby
 sudo bundle install
+```
+
+### Starting Skript 
+
+```ruby
+ruby loli.rb
 ```
