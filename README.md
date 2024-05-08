@@ -44,6 +44,10 @@ sudo pacman -S ruby && gem install bundler
 ### Download Repository
 
 ```bash
-git clone 
+git clone https://github.com/EvolutionRussian/LoliParser
+```
+and
+```bash
+cd LoliParser
 ```
 
