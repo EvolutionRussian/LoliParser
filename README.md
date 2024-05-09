@@ -60,11 +60,6 @@ sudo bundle install
 ruby loli.rb
 ```
 
-
-<audio controls>
-  <source src="audio.mp3" type="audio/mpeg">
-</audio>
-
 ### Code modification
 If you need the script to load the received images, then replace or add the code in the <code>begin</code> operator with this
 
@@ -90,5 +85,9 @@ If you need the script to load the received images, then replace or add the code
 
 ### what loli?
 ### yes loli loli loli a lot of loli !!!
+
+<audio controls>
+  <source src="audio.mp3" type="audio/mpeg">
+</audio>
 
 <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="300"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="250"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="200"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> 
