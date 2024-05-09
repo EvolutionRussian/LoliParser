@@ -10,7 +10,7 @@ colors = [:red, :green, :yellow, :blue, :magenta, :cyan]
     colors.each do |color|
     system('clear')
     5.times do
-    print logo.colorize(:color => :black, :background => color) + " " # Выводим баннер в одну строку с пробелом после каждого
+    print logo.colorize(:color => :black, :background => color) + " " 
     end
     sleep(0.2)
 
