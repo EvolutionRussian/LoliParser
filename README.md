@@ -87,7 +87,8 @@ If you need the script to load the received images, then replace or add the code
 ### yes loli loli loli a lot of loli !!!
 
 <audio controls>
-  <source src="audio.mp3" type="audio/mpeg">
+  <source src="https://cdns-preview-7.dzcdn.net/stream/c-720770409162c3d033ce5ded7f391812-1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
 </audio>
 
 <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="300"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="250"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="200"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> 
