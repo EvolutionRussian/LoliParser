@@ -86,9 +86,7 @@ If you need the script to load the received images, then replace or add the code
 ### what loli?
 ### yes loli loli loli a lot of loli !!!
 
-<audio controls>
-  <source src="https://cdns-preview-7.dzcdn.net/stream/c-720770409162c3d033ce5ded7f391812-1.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336072744&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 
 <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="300"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="250"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="200"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> 
