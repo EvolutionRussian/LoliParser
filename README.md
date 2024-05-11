@@ -87,6 +87,6 @@ If you need the script to load the received images, then replace or add the code
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=00ff00)](https://open.spotify.com/track/1w8JtEsS51WdGL4G6pAn2R?si=e88ee67926874040) 
 
 <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> 
