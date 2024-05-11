@@ -87,6 +87,6 @@ If you need the script to load the received images, then replace or add the code
 
 ### Spotify Playing 🎧
 
-[![Плеер Spotify](https://imgur.com/your-image-url.png)](https://open.spotify.com/track/1w8JtEsS51WdGL4G6pAn2R?si=e88ee67926874040)
+<iframe src="https://open.spotify.com/embed/track/1w8JtEsS51WdGL4G6pAn2R?utm_source=generator" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> 
