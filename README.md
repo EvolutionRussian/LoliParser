@@ -85,4 +85,14 @@ If you need the script to load the received images, then replace or add the code
 ### what loli?
 ### yes loli loli loli a lot of loli !!!
 
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true) 
+ 
+<p align="center">
+  <img alt="Err0r-ICA' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&hide_border=true" />
+<!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
+</p>
+
 <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> <img align="center" src="https://c.tenor.com/MYCVC47cd7cAAAAd/tenor.gif" width="150"> 
